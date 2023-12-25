@@ -1,1 +1,1 @@
-streamlit run StockPriceApp.py
+`streamlit run StockPriceApp.py`
