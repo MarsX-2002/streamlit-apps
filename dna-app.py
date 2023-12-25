@@ -15,6 +15,8 @@ st.write("""
 # DNA Nucleotide Count Web App
          
 This app counts the nucleotide composition of query DNA!
+
+st.markdown("Check out my [GitHub](https://github.com/MarsX-2002) profile! :joy:")
 ***                  
 """)
 
