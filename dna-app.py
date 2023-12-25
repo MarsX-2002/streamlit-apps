@@ -16,7 +16,7 @@ st.write("""
          
 This app counts the nucleotide composition of query DNA!
 
-"Check out my [GitHub](https://github.com/MarsX-2002/streamlit-apps/) profile! :joy:
+Check out my [GitHub](https://github.com/MarsX-2002/streamlit-apps/) profile! :joy:
 ***                  
 """)
 
